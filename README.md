@@ -4,4 +4,4 @@
 - We would appreciate it if you could check the update date of each file.
 - Please [contact us](https://wely.tech/) for inquiries about third party’s licenses we use.
 
-WELY Inc.
+&copy; 2023 WELY Inc.
